@@ -1,2 +1,2 @@
-# Merhaba Git
-Bu dosya WeWantEd ekibine ithafen hazırlanmıştır.
+ï»¿# Merhaba Git
+Bu dosya WeWantEd ekibine ithafen hazÄ±rlanmÄ±ÅŸtÄ±r.
